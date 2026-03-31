@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Meu nome é gustavo coelho e tenho 17 anos<br>Estou Estudando desenvolvimento de sistemas (Atualmente no 2º Semestre)<br>Falo duas linguas, sendo elas o inglês e o português. <br> Atualmente, meu inglês está classificado no nivel b2(170+)
+Meu nome é Gustavo Coelho, e tenho 17 anos<br>Estou Estudando desenvolvimento de sistemas (Atualmente no 3º Semestre) no Senai Anchieta<br>Falo duas linguas, sendo elas o inglês e o português. <br> Atualmente, meu inglês está classificado no nivel b2(170+)
 
 
 # 💻 Linguagens:
